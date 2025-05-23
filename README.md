@@ -120,6 +120,8 @@ checkDraw(): Checks for a draw.
 getMove(): Gets and validates player moves.
 print_choice(): Prints
 
+//this description was built with AI
+
 
 
 
